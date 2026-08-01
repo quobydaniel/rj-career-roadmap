@@ -1,0 +1,63 @@
+date,item,category,qty,unit_price,cost_per_unit
+2026-07-01,Paracetamol 500mg,Pain Relief,4,3.0,1.5
+2026-07-01,Antimalarial (Coartem),Malaria,2,22.0,12.0
+2026-07-01,ORS Sachets,Rehydration,10,1.5,0.5
+2026-07-01,Cough Syrup,Respiratory,3,7.0,3.5
+2026-07-01,Hand Sanitizer 500ml,Hygiene,2,6.5,3.0
+2026-07-02,Paracetamol 500mg,Pain Relief,5,3.0,1.5
+2026-07-02,Blood Pressure Monitor,Devices,1,85.0,45.0
+2026-07-02,Antimalarial (Coartem),Malaria,3,22.0,12.0
+2026-07-02,Vitamin C 1000mg,Supplements,6,5.0,2.0
+2026-07-02,Amoxicillin 250mg,Antibiotics,2,8.5,4.0
+2026-07-02,Eye Drops,Eye Care,4,5.5,2.5
+2026-07-03,Paracetamol 500mg,Pain Relief,8,3.0,1.5
+2026-07-03,Antimalarial (Coartem),Malaria,4,22.0,12.0
+2026-07-03,Ibuprofen 400mg,Pain Relief,6,3.5,1.8
+2026-07-03,ORS Sachets,Rehydration,12,1.5,0.5
+2026-07-03,Pregnancy Test Kit,Diagnostics,3,8.0,3.0
+2026-07-03,Bandages & Plasters,First Aid,5,2.5,1.0
+2026-07-04,Paracetamol 500mg,Pain Relief,7,3.0,1.5
+2026-07-04,Hand Sanitizer 500ml,Hygiene,3,6.5,3.0
+2026-07-04,Cough Syrup,Respiratory,5,7.0,3.5
+2026-07-04,Antimalarial (Coartem),Malaria,2,22.0,12.0
+2026-07-04,Vitamin C 1000mg,Supplements,8,5.0,2.0
+2026-07-05,Blood Pressure Monitor,Devices,2,85.0,45.0
+2026-07-05,Paracetamol 500mg,Pain Relief,6,3.0,1.5
+2026-07-05,Amoxicillin 250mg,Antibiotics,4,8.5,4.0
+2026-07-05,Eye Drops,Eye Care,3,5.5,2.5
+2026-07-05,ORS Sachets,Rehydration,9,1.5,0.5
+2026-07-05,Ibuprofen 400mg,Pain Relief,5,3.5,1.8
+2026-07-06,Paracetamol 500mg,Pain Relief,9,3.0,1.5
+2026-07-06,Antimalarial (Coartem),Malaria,5,22.0,12.0
+2026-07-06,Hand Sanitizer 500ml,Hygiene,4,6.5,3.0
+2026-07-06,Pregnancy Test Kit,Diagnostics,2,8.0,3.0
+2026-07-06,Cough Syrup,Respiratory,6,7.0,3.5
+2026-07-06,Vitamin C 1000mg,Supplements,4,5.0,2.0
+2026-07-07,Blood Pressure Monitor,Devices,3,85.0,45.0
+2026-07-07,Paracetamol 500mg,Pain Relief,10,3.0,1.5
+2026-07-07,Ibuprofen 400mg,Pain Relief,7,3.5,1.8
+2026-07-07,ORS Sachets,Rehydration,11,1.5,0.5
+2026-07-07,Antimalarial (Coartem),Malaria,3,22.0,12.0
+2026-07-07,Eye Drops,Eye Care,5,5.5,2.5
+2026-07-07,Bandages & Plasters,First Aid,8,2.5,1.0
+2026-07-08,Paracetamol 500mg,Pain Relief,5,3.0,1.5
+2026-07-08,Antimalarial (Coartem),Malaria,4,22.0,12.0
+2026-07-08,Amoxicillin 250mg,Antibiotics,3,8.5,4.0
+2026-07-08,Vitamin C 1000mg,Supplements,7,5.0,2.0
+2026-07-08,Hand Sanitizer 500ml,Hygiene,2,6.5,3.0
+2026-07-08,Pregnancy Test Kit,Diagnostics,4,8.0,3.0
+2026-07-08,ORS Sachets,Rehydration,8,1.5,0.5
+2026-07-08,Cough Syrup,Respiratory,4,7.0,3.5
+2026-07-09,Paracetamol 500mg,Pain Relief,6,3.0,1.5
+2026-07-09,Blood Pressure Monitor,Devices,1,85.0,45.0
+2026-07-09,Antimalarial (Coartem),Malaria,6,22.0,12.0
+2026-07-09,Ibuprofen 400mg,Pain Relief,5,3.5,1.8
+2026-07-09,Eye Drops,Eye Care,3,5.5,2.5
+2026-07-09,Hand Sanitizer 500ml,Hygiene,5,6.5,3.0
+2026-07-09,Bandages & Plasters,First Aid,6,2.5,1.0
+2026-07-10,Paracetamol 500mg,Pain Relief,7,3.0,1.5
+2026-07-10,Antimalarial (Coartem),Malaria,4,22.0,12.0
+2026-07-10,Amoxicillin 250mg,Antibiotics,2,8.5,4.0
+2026-07-10,Vitamin C 1000mg,Supplements,9,5.0,2.0
+2026-07-10,ORS Sachets,Rehydration,10,1.5,0.5
+2026-07-10,Pregnancy Test Kit,Diagnostics,2,8.0,3.0
